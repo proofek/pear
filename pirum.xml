@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+    <name>proofek.github.com/pear</name>
+    <summary>proofek's PEAR Channel Server</summary>
+    <alias>proofek</alias>
+    <url>http://proofek.github.com/pear</url>
+</server>

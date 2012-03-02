@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://proofek.github.com/pear</id>
+    <updated>2012-03-02T10:09:52+00:00</updated>
+    <title>proofek's PEAR Channel Server Latest Releases</title>
+    <link href="http://proofek.github.com/pear/feed.xml" rel="self" />
+    <author>
+        <name>http://proofek.github.com/pear</name>
+    </author>
+
+
+</feed>
