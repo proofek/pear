@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://proofek.github.com/pear</id>
-    <updated>2012-03-02T10:09:52+00:00</updated>
+    <updated>2012-03-02T11:02:12+00:00</updated>
     <title>proofek's PEAR Channel Server Latest Releases</title>
     <link href="http://proofek.github.com/pear/feed.xml" rel="self" />
     <author>
         <name>http://proofek.github.com/pear</name>
     </author>
 
-
+    <entry>
+        <title>PHP54Compatibility 0.1.0 (alpha)</title>
+        <link href="http://proofek.github.com/pear/get/PHP54Compatibility-0.1.0.tgz" />
+        <id>http://proofek.github.com/pear/get/PHP54Compatibility-0.1.0.tgz</id>
+        <author>
+            <name>smarek</name>
+        </author>
+        <updated>2012-03-02T10:16:00+00:00</updated>
+        <content>
+            
+    PHP 5.4 Compatibility sniffs based on Wim Godden's PHP53Compatibility code sniffs. See [blog](http://techblog.wimgodden.be/tag/codesniffer) and [github](https://github.com/wimg/PHP53Compat_CodeSniffer).
+  
+        </content>
+    </entry>
 </feed>
