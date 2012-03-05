@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/php54compatibility">PHP54Compatibility</p>
+    <c>proofek.github.com/pear</c>
+    <v>0.2.0</v>
+    <st>stable</st>
+    <l>Sebastian Marek</l>
+    <m>smarek</m>
+    <s>PHP 5.4 Compatibility Coding Standard for PHP_CodeSniffer</s>
+    <d>
+    This is a set of sniffs for PHP_CodeSniffer that checks for PHP 5.4 compatibility.
+  </d>
+    <da>2012-03-05 23:20:00</da>
+    <n>
+    PHP 5.4 Compatibility sniffs based on Wim Godden's PHP53Compatibility code sniffs. See [blog](http://techblog.wimgodden.be/tag/codesniffer) and [github](https://github.com/wimg/PHP53Compat_CodeSniffer).
+  </n>
+    <f>5001</f>
+    <g>http://proofek.github.com/pear/get/PHP54Compatibility-0.2.0</g>
+    <x xlink:href="package.0.2.0.xml"/>
+</r>
